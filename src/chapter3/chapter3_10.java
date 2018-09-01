@@ -1,3 +1,5 @@
+package chapter3;
+
 public class chapter3_10 {
     public static void main(String[] args)
             throws java.io.IOException {
