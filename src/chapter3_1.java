@@ -2,12 +2,11 @@
 Программа, которая получает символы, введенные с клавиатуры, до тех пор, пока не встретится точка.
 Сведения о количестве пробелов выводятся в конце программы.
  */
-public class chapter3 {
+public class chapter3_1 {
     public static void main(String[] args)
             throws java.io.IOException {
 
         char entered_symbol;
-        char cl;
         int num = 0;
 
         for(;;){
