@@ -1,7 +1,10 @@
-//Chapter 2
-//Программа, которая находит простые числа в пределах от 2 до 100.
+/*
+сhapter 2
+Программа, которая находит простые числа в пределах от 2 до 100.
+*/
 public class chapter2 {
     public static void main(String[] args){
+
         System.out.print("2 ");
         for (int i = 3; i <= 200; i++){
             for (int y = 2; y < i; y++){
